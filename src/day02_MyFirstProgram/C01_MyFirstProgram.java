@@ -4,7 +4,7 @@ import day21_Class_And_Methods.Person;
 import day43_Inheritance_AccessModifiers.C23_Daire;
 import day46_FinalAndHiding.C;
 
-public class C01_MyFirstProgram extends C23_Daire{
+public class C01_MyFirstProgram{
 
     public static void main(String[] args){
 
@@ -15,10 +15,7 @@ public class C01_MyFirstProgram extends C23_Daire{
 
     }
 
-    void method(){
 
-        System.out.println(degisken);
-    }
 
 }
 
